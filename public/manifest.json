@@ -1,8 +1,8 @@
 {
   "name": "Capsule Market",
-  "url": "https://your-vercel-project-url.vercel.app",
-  "iconUrl": "https://your-vercel-project-url.vercel.app/icon.png",
-  "termsOfUseUrl": "https://your-vercel-project-url.vercel.app/terms",
-  "privacyPolicyUrl": "https://your-vercel-project-url.vercel.app/privacy",
-  "aboutUrl": "https://your-vercel-project-url.vercel.app/about"
+  "url": "https://web.telegram.org/",
+  "iconUrl": "https://raw.githubusercontent.com/BeanyDio/capsule-beany/refs/heads/main/public/capsuleBez.png",
+  "termsOfUseUrl": "https://telegram.org/tos/mini-apps",
+  "privacyPolicyUrl": "https://telegra.ph/Telegram-Capsule-Market-Policy-Documentation-NFT-Trading-Mini-App-06-20",
+  "aboutUrl": "https://telegram.org/faq"
 }
